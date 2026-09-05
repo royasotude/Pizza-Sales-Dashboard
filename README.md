@@ -8,7 +8,7 @@ The dashboard provides an overview of revenue, orders, pizza sales, and purchasi
 
 ## Dashboard Preview
 
-![Pizza Sales Dashboard](Images/dashboard-preview.png)
+![Pizza Sales Dashboard](Images/dashboard.png)
 
 ## Key Performance Indicators
 
